@@ -1,9 +1,9 @@
 const projects = [
   {
     title: "Mission Simulator",
-    description: "Real-time orbital simulation with Go, Python, and Arduino-based telemetry.",
+    description: "Real-time orbital simulation with Python, Go, and Arduino-based telemetry.",
     link: "/projects/mission-sim",
-    image: "/placeholder.jpeg",
+    image: "/mission-sim cover.png",
   },
   {
     title: "Regenerative Rocket Engine",
@@ -15,7 +15,7 @@ const projects = [
     title: "MAESTRO: Mars Rotorcraft Planner",
     description: "NASA Ames tool for intelligent Mars terrain analysis and path planning.",
     link: "/projects/maestro",
-    image: "/placeholder.jpeg",
+    image: "/MAESTRO cover.png",
   },
 ];
 

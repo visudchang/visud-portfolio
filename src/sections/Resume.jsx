@@ -20,7 +20,7 @@ export default function Resume() {
             download
             className="text-xl inline-block px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white font-semibold rounded-lg shadow transition duration-200"
           >
-            Download Resume
+            Download It Here
           </a>
         </div>
 
