@@ -14,7 +14,7 @@ const projects = [
   {
     title: "MAESTRO: Mars Rotorcraft Planner",
     description: "NASA Ames tool for intelligent Mars terrain analysis and path planning.",
-    link: "/projects/maestro",
+    link: "/projects/MAESTRO",
     image: "/MAESTRO cover.png",
   },
 ];

@@ -7,22 +7,22 @@ export default function About() {
         <div className="space-y-6 text-left w-full transform -translate-y-10">
           <h1 className="text-4xl font-bold text-blue-300">About Me</h1>
           <p className="text-lg text-zinc-300 leading-relaxed">
-            I'm a passionate aerospace engineer-in-training currently pursuing my B.S. in Mechanical Engineering with a minor in Electrical Engineering & Computer Science at UC Berkeley. With a strong foundation in dynamics, controls, and fluid systems, I’ve focused my academic and extracurricular efforts on the intersection of mission operations and propulsion engineering. As Vice President of AIAA and a member of UC Berkeley’s competitive rocketry team, STAR, I’ve taken on leadership roles in both technical development and mentorship, contributing to projects ranging from solid and liquid rockets to advanced simulation systems.
+            Originally from Long Beach, CA, I'm currently a student at UC Berkeley pursuing my B.S. in Aerospace Engineering with a minor in Electrical Engineering and Computer Science. My first interaction with aerospace engineering started at ten years old when I got the chance to visit NASA’s Jet Propulsion Laboratory in Pasadena and see the incredible projects people were working on, inspiring my interest in space, and specifically, in propulsion systems and mission control.
           </p>
           <p className="text-lg text-zinc-300 leading-relaxed">
-            During my internship at NASA Ames Research Center, I developed MAESTRO—a Mars Airfield Evaluation and Survey Tool for Rotorcraft Operations—enabling mission planners to identify safe landing zones using Martian terrain data. I've also engineered a regeneratively cooled rocket engine in SolidWorks, optimizing coolant flow and thermal performance through iterative CAD and CFD simulations. My mission simulator project, integrating real-time telemetry via Arduino, LoRa, and a React-based GUI, demonstrates my ability to bridge embedded systems, networking, and user experience to create end-to-end solutions for spacecraft control.
+            This summer I had the opportunity to intern at the Mission Design Center at NASA Ames Research Center, where I learned how to think like a mission planner, specifically for rotorcraft operations on Mars. I developed an intelligent path planning tool called MAESTRO to help the operations team make traversal decisions when creating flight plans. Over the summer, I was also inspired to create some passion projects, including my own mission control software and a regeneratively cooled rocket engine simulation, which helped me develop a wide range of skills I can apply to future work. More information can be found in the Projects tab of this website.
           </p>
           <p className="text-lg text-zinc-300 leading-relaxed">
-            I aspire to work in mission operations or flight software at companies like SpaceX, Rocket Lab, or Vast, where I can help shape the future of space exploration through reliable, innovative systems. With a deep appreciation for both the technical rigor and collaborative spirit that spaceflight demands, I’m driven by a lifelong goal: to one day serve on a mission control team that lands a spacecraft on another world.
+           I see my future in the aerospace industry. One of the things I love most about this field is the ability to be part of the bigger picture. Sending vehicles and humans to space is not easy, but being part of that journey and contributing to the mission is what drives me each day.
           </p>
         </div>
 
         {/* Portrait — now second */}
         <div className="flex-shrink-0">
           <img
-            src="/me.jpg"
+            src="/about image.jpg"
             alt="Visud Chang"
-            className="w-96 h-144 object-cover shadow-lg border-4 border-blue-400 transform translate-x-6 -translate-y-8"
+            className="w-96 h-132 object-cover object-top shadow-lg border-4 border-blue-400 transform translate-x-6 -translate-y-8"
           />
         </div>
         

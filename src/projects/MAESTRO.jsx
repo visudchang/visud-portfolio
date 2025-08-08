@@ -41,7 +41,7 @@ export default function MAESTRO() {
         <p>
           The source code can be accessed{" "}
           <a
-            href="https://github.com/yourusername/maestro"
+            href="https://github.com/visudchang/MAESTRO"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-400 hover:underline"

@@ -3,8 +3,8 @@ import About from './sections/About'
 import Projects from './sections/Projects'
 import Resume from './sections/Resume'
 import Contact from './sections/Contact'
-import MissionSimulator from './projects/MissionSimulator'
-import RocketEngine from './projects/RocketEngine'
+import MissionSimulator from './projects/mission-sim'
+import RocketEngine from './projects/rocket-engine'
 import MAESTRO from './projects/MAESTRO'
 
 function Navbar() {
@@ -58,9 +58,9 @@ function Home() {
           {/* Right: Text */}
           <div className="text-center md:text-right ml-auto mt-16">
             <h1 className="text-5xl font-bold mb-4">Hi, I'm Visud.</h1>
-            <p className="text-xl max-w-xl">
+            <p className="text-xl max-w-[38rem]">
               I’m a student at <span className="font-semibold">UC Berkeley</span> majoring in Aerospace Engineering, with a minor in Electrical Engineering and Computer Science. 
-              I’m from <span className="font-semibold">Long Beach, California</span>, and I’m passionate about mission control, operations, and the systems that make it all possible.
+              I’m from <span className="font-semibold">Long Beach, California</span>, and I’m passionate about mission control, operations, and the systems that make spaceflight possible.
             </p>
           </div>
         </div>
@@ -81,9 +81,9 @@ export default function App() {
         <Route path="/projects" element={<Projects />} />
         <Route path="/resume" element={<Resume />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path="/projects/mission-simulator" element={<MissionSimulator />} />
+        <Route path="/projects/mission-sim" element={<MissionSimulator />} />
         <Route path="/projects/rocket-engine" element={<RocketEngine />} />
-        <Route path="/projects/maestro" element={<MAESTRO />} />
+        <Route path="/projects/MAESTRO" element={<MAESTRO />} />
       </Routes>
     </Router>
   )
