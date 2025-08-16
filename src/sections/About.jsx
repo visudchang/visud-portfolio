@@ -13,7 +13,7 @@ export default function About() {
             This summer I had the opportunity to intern at the Mission Design Center at NASA Ames Research Center, where I learned how to think like a mission planner, specifically for rotorcraft operations on Mars. I developed an intelligent path planning tool called MAESTRO to help the operations team make traversal decisions when creating flight plans. Over the summer, I was also inspired to create some passion projects, including my own mission control software and a regeneratively cooled rocket engine simulation, which helped me develop a wide range of skills I can apply to future work. More information can be found in the Projects tab of this website.
           </p>
           <p className="text-lg text-zinc-300 leading-relaxed">
-           I see my future in the aerospace industry. One of the things I love most about this field is the ability to be part of the bigger picture. Sending vehicles and humans to space is not easy, but being part of that journey and contributing to the mission is what drives me each day.
+           I’m committed to building a career in the aerospace industry, where I can play a direct role in the future of space exploration. Spaceflight is complex, but what excites me most about it is the challenge of designing, testing, and refining the systems that make ambitious missions possible. 
           </p>
         </div>
 

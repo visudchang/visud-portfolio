@@ -5,7 +5,7 @@ export default function RocketEngine() {
         Regeneratively Cooled Rocket Engine Simulation
       </h2>
       <p>
-        This project models a regeneratively cooled rocket engine using SolidWorks and Flow Simulation. It analyzes heat transfer and coolant flow through semicircular channels under extreme thermal loading conditions. The design includes a tangential inlet manifold, 36 cooling channels, and a custom nozzle contour, with performance goals focused on thermal protection and even coolant distribution.
+        This project models a regeneratively cooled rocket engine using SolidWorks and Flow Simulation. It analyzes heat transfer and coolant flow through semicircular channels under extreme thermal loading conditions. The design includes a tangential inlet manifold, symmetric cooling channels, and a custom nozzle contour, with performance goals focused on thermal protection and even coolant distribution.
       </p>
 
       <div className="text-yellow-400 font-semibold">

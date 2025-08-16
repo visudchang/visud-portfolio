@@ -16,7 +16,7 @@ export default function Resume() {
             Here's a preview of my resume.
           </p>
           <a
-            href="/VisudChang_Resume.pdf"
+            href="/Visud Chang Resume.pdf"
             download
             className="text-xl inline-block px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white font-semibold rounded-lg shadow transition duration-200"
           >
@@ -27,7 +27,7 @@ export default function Resume() {
         {/* Resume PDF on the Right */}
         <div className="w-full md:w-[540px] h-[695px] rounded-lg overflow-hidden shadow-lg border-2 border-blue-500 transform -translate-y-6">
           <embed
-            src="/VisudChang_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0&zoom=65"
+            src="/Visud Chang Resume.pdf#toolbar=0&navpanes=0&scrollbar=0&zoom=65"
             type="application/pdf"
             className="w-full h-full"
           />

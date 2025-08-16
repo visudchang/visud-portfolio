@@ -29,15 +29,6 @@ export default function MissionSimulator() {
           </div>
           <div className="text-center text-base space-y-1">
             <a
-              href="https://visudchang.com/projects/mission-sim/demo"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-400 hover:underline"
-            >
-              Try it live!
-            </a>
-            <br />
-            <a
               href="https://github.com/visudchang/mission-sim"
               target="_blank"
               rel="noopener noreferrer"
